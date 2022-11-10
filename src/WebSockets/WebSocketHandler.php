@@ -38,6 +38,8 @@ class WebSocketHandler implements MessageComponentInterface, WsServerInterface
             'pusher-channels-protocol-6',
             'pusher-channels-protocol-5',
             'pusher-channels-protocol-4',
+            '7',
+            '3',
         ];
     }
 
